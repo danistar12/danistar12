@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Danielle!
 - 👀 I’m interested in ... science, technology, mathmatics, coding/programming.
-- 🌱 I’m currently learning ... VBScript and HTML
+- 🌱 I’m currently learning ... ASP.NET and Automation
 - 💞️
-- 📫 How to reach me... @Danistar on discord
+- 📫 How to reach me... @Danistar on discord 
 - 😄 Pronouns: She/Her
 
 
