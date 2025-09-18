@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Danielle!
 - 👀 I’m interested in ... science, technology, mathmatics, coding/programming.
-- 🌱 I’m currently learning ... python 🐍 and physics 👩‍🔬
+- 🌱 I’m currently learning ... python 🐍 and physics 👩‍🔬 LLM Dev
 - 💞️
-- 📫 How to reach me...📨 creative.soulutions616@gmail.com 
+- 📫 How to reach me...📨dlloyd616@outlook.com
 - 😄 Pronouns: She/Her
 
 
